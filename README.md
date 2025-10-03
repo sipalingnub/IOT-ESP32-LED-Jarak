@@ -19,7 +19,7 @@ Selain itu, hasil pengukuran jarak akan dikirim secara otomatis ke **ThingSpeak*
 
 ## Rangkaian
 
-[gambar]
+![image alt](https://github.com/sipalingnub/IOT-ESP32-LED-Jarak/blob/86d697e04bc03e34f7ecb3343ba6e2d22e4f3c9c/assets/WhatsApp%20Image%202025-10-03%20at%2010.34.15.jpeg)
 
 - Ultrasonik:
 
@@ -54,15 +54,15 @@ Katoda (–) → GND
 
 - **Serial Monitor:** Menampilkan jarak dalam cm dan status pengiriman ke ThingSpeak.
 
-[output thingspeak docum]
+![image alt](https://github.com/sipalingnub/IOT-ESP32-LED-Jarak/blob/86d697e04bc03e34f7ecb3343ba6e2d22e4f3c9c/assets/WhatsApp%20Image%202025-10-03%20at%2010.31.22.jpeg)
 
 - **LED**: Menyala jika objek < 10 cm.
 
-[output led nyala < 10 cm docum]
+![image alt](https://github.com/sipalingnub/IOT-ESP32-LED-Jarak/blob/86d697e04bc03e34f7ecb3343ba6e2d22e4f3c9c/assets/WhatsApp%20Image%202025-10-03%20at%2010.29.37.jpeg)
 
 Objek berada di jarak 6.80 cm. **LED** menyala
 
-[output led tidak nyala > 10 cm docum]
+![image alt](https://github.com/sipalingnub/IOT-ESP32-LED-Jarak/blob/86d697e04bc03e34f7ecb3343ba6e2d22e4f3c9c/assets/WhatsApp%20Image%202025-10-03%20at%2010.30.51.jpeg)
 
 Objek berada di jarak 133.74 cm. **LED** mati
 
